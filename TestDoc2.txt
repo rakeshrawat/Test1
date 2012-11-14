@@ -1,0 +1,2 @@
+Just a test to see if both readme and TestDoc2 are updated simulataneously and reflecting new changes done at GITHUB successfully.
+1024
